@@ -14,7 +14,6 @@ import KompleWeb from "./images/kompleweb.jpg";
 function App() {
   return (
     <div >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In possimus velit beatae, est placeat labore consequatur neque? Quo obcaecati laborum inventore id deleniti molestias doloribus, dolorem quisquam quidem corporis saepe!
       <AppBar>
         <Toolbar sx={{ fontSize: 30 }} >Kart Projesi</Toolbar>
       </AppBar>
