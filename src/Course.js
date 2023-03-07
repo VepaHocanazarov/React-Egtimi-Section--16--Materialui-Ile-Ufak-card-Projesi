@@ -1,8 +1,13 @@
 import React from 'react';
 
- function Course() {
+ function Course({image,title,description}) {
   return (
     <div>
+
+      <img src={image} alt="" />
+      <p> {title} </p>
+      <p> {description} </p>
+
        
     </div>
   )
